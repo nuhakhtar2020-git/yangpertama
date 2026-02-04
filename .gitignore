@@ -1,0 +1,5 @@
+# Ignore the text file where tasks are saved
+tasks.txt
+
+# Ignore Python cache folders
+__pycache__/
